@@ -1,0 +1,9 @@
+[submodule "moony-lv2-git"]
+	path = moony-lv2-git
+	url = ssh://aur@aur.archlinux.org/moony-lv2-git.git
+[submodule "sequencer64-next-git"]
+	path = sequencer64-next-git
+	url = ssh://aur@aur.archlinux.org/sequencer64-next-git.git
+[submodule "sequencer64-git"]
+	path = sequencer64-git
+	url = ssh://aur@aur.archlinux.org/sequencer64-git.git

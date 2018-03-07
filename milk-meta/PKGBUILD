@@ -1,0 +1,45 @@
+# Maintainer: Your Name <milk on freenode>
+pkgname=milk-meta
+pkgver=0.1
+pkgrel=1
+epoch=
+pkgdesc="Package bootstrap"
+arch=('x86_64')
+url=""
+license=('GPL')
+groups=()
+depends=('reflector' 'iotop' 'bind-tools' 'dnsmasq' 'dnscrypt-proxy' 'ripgrep' 'fzf' 'vim' 'git' 'tmux' 'htop' 'atop' 'inxi' 'fasd' 'ncdu' 'tree' 'pkgfile' 'pkgcacheclean' 'cower' 'longoverdue' 'xorg-server' 'xorg-xinit' 'xorg-xsetroot' 'xorg-xrdb' 'xorg-xset' 'xorg-xev' 'rxvt-unicode-fontspacing-noinc-vteclear-secondarywheel' 'terminus-font' 'terminus-font-ttf' 'py3status' 'checkupdates-aur' 'i3-gaps' 'autocutsel' 'xscreensaver' 'compton' 'dunst' 'hsetroot' 'feh' 'dmenu' 'redshift' 'unclutter' 'radiotray-ng' 'lxappearance' 'workrave' 'xorg-xdpyinfo' 'xdotool' 'glxinfo' 'systemd-numlockontty' 'gohufont' 'fd-rs' 'links-g-directfb' 'smartmontools' 'dtrx' 'youtube-dl-git' 'dnscrypt-proxy-gui' 'meld' 'xcwd-git' 'google-chrome' 'vcsh-git' 'myrepos' '' 'apci' 'acpid' 'vattery' 'wicd' 'wicd-gtk' 'tlp' 'xf86-input-libinput' 'syncthing' 'syncthing-gtk' 'syncthing-inotify' 'pakbak-git' 'jack2' 'pulseaudio-jack' 'cadence-git' 'carla-git' 'kmix' 'fd')
+makedepends=()
+checkdepends=()
+optdepends=()
+provides=()
+conflicts=()
+replaces=()
+backup=()
+options=()
+install=
+changelog=
+source=()
+noextract=()
+md5sums=()
+validpgpkeys=()
+
+prepare() {
+    cd ${pkgname}
+
+}
+
+build() {
+    cd ${pkgname}
+
+}
+
+check() {
+    cd ${pkgname}
+
+}
+
+package() {
+    cd ${pkgname}
+
+}
